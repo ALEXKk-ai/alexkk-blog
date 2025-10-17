@@ -1,0 +1,43 @@
+---
+---
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}  <!-- Auto-generates meta, OG, Twitter, schema -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+  </head>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if layout.classes or page.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include skip-links.html %}
+    
+    <!-- Header with Title Left, Nav Right -->
+    <header class="site-header" role="banner">
+      <div class="wrapper" style="display: flex; justify-content: space-between; align-items: center;">
+        <div class="site-header__brand">
+          <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        </div>
+        <nav id="site-nav" class="site-nav" role="navigation">
+          {% include nav.html %}
+        </nav>
+      </div>
+    </header>
+    
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    
+    {% include footer.html %}
+  </body>
+</html>

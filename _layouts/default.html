@@ -1,3 +1,5 @@
+
+=======
 ---
 ---
 
@@ -36,8 +38,19 @@
       <div class="wrapper">
         {{ content }}
       </div>
+      {% if page.layout == "post" %}
+<script src="https://utteranc.es/client.js"
+    repo="ALEXKk-ai/alexkk-blog"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
+{% endif %}
+
     </main>
     
     {% include footer.html %}
   </body>
+>>>>>>> 15b6e48 (Add new files)
 </html>

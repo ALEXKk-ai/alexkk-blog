@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Allow indexing of all pages
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

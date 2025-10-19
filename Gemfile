@@ -44,3 +44,7 @@ gem "logger"   # Silences deprecation warning
 group :jekyll_plugins do
   # Plugins go here (already listed above)
 end
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.8"  # Fixes serve issues if needed

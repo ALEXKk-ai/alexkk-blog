@@ -13,7 +13,7 @@ image: /assets/gum-health-braces.jpg  # Add image to assets/ with alt below
   <img src="{{ site.baseurl }}/assets/gum-health-braces.jpg" alt="Close-up of healthy pink gums around orthodontic braces, showing gentle brushing technique." style="max-width: 600px; height: 400px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-Gum health is the unsung hero of braces treatment—ignore it, and you risk gingivitis, bleeding, or even treatment delays from swollen tissues pushing brackets. In 2025, with targeted rinses and supplements, keeping gums pink and firm is straightforward. Drawing from my own orthodontic battles (wires rubbing raw spots raw!) and affiliate-tested products, this expanded guide dives deep into causes, a daily protocol, tool recommendations, pitfalls, and ClickBank standouts. Whether you're dealing with initial soreness or ongoing plaque wars, these strategies integrate seamlessly with [teeth whitening routines]({% post_url 2025-10-01-teeth-whitening-with-braces %}) and [overall hygiene habits]({% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}).
+Gum health is the unsung hero of braces treatment—ignore it, and you risk gingivitis, bleeding, or even treatment delays from swollen tissues pushing brackets. In 2025, with targeted rinses and supplements, keeping gums pink and firm is straightforward. Drawing from my own orthodontic battles (wires rubbing raw spots raw!) and affiliate-tested products, this expanded guide dives deep into causes, a daily protocol, tool recommendations, pitfalls, and ClickBank standouts. Whether you're dealing with initial soreness or ongoing plaque wars, these strategies integrate seamlessly with [teeth whitening routines]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %}) and [overall hygiene habits]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}).
 
 ### Understanding Gum Health Challenges with Braces
 Braces transform your mouth into a bacterial hotspot: Wires trap food, brackets irritate soft tissue, and poor airflow dries gums, spiking inflammation risk by 40%, according to the Journal of Clinical Orthodontics. Common issues include:
@@ -35,7 +35,7 @@ A proactive routine—5 minutes daily—massages blood flow, reduces bacteria, a
 
 4. **Massage and Tools**: Finger or silicone tip massager—circular rubs for 1 minute post-brush. Water flossers clear debris without trauma.
 
-5. **Diet and Lifestyle**: Crunchy veggies (celery) for natural scrub; avoid tobacco/alcohol. Hydrate (2L/day) to lubricate, tying into [bad breath prevention]({% post_url 2025-10-03-combating-bad-breath-during-orthodontics %}).
+5. **Diet and Lifestyle**: Crunchy veggies (celery) for natural scrub; avoid tobacco/alcohol. Hydrate (2L/day) to lubricate, tying into [bad breath prevention]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
 
 6. **Nighttime Boost**: Ortho wax on sharp edges; probiotic chew before bed for overnight protection.
 
@@ -50,7 +50,7 @@ Budget-friendly picks that fit braces life:
 Steer clear of harsh mouthwashes (dry out tissue) or hard foods (poke gums).
 
 ### Recommended Affiliate Product: ProvaDent
-For root-cause gum repair, [ProvaDent](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=provadent) tops my ClickBank list. This powder formula (with aloe, vitamin C) targets bleeding and swelling, promoting regeneration without gels that snag on braces. High-converting (gravity 180+), with reviews praising faster healing during ortho. Integrates with [daily hygiene steps]({% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}) for all-around defense. 90-day guarantee.
+For root-cause gum repair, [ProvaDent](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=provadent) tops my ClickBank list. This powder formula (with aloe, vitamin C) targets bleeding and swelling, promoting regeneration without gels that snag on braces. High-converting (gravity 180+), with reviews praising faster healing during ortho. Integrates with [daily hygiene steps]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}) for all-around defense. 90-day guarantee.
 
 Bonus: Pair with ProDentim for microbiome synergy.
 

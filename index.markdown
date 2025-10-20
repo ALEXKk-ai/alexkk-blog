@@ -13,7 +13,7 @@ Your guide to maintaining a healthy, confident smile while wearing braces.
 Explore our posts below:
 
 {% for post in site.posts limit: 4 %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 Stay tuned for more orthodontic advice and exclusive ClickBank deals!

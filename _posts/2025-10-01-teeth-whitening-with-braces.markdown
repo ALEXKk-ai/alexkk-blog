@@ -15,7 +15,7 @@ image: /assets/teeth-whitening-braces.jpg  # Add image to assets/ with alt below
 Wearing braces doesn't mean sacrificing a brighter smile—far from it! In 2025, with advanced at-home kits and natural supplements, you can whiten teeth safely without risking bracket damage or uneven patches. But traditional strips and gels? They often pool around wires, leading to "zebra teeth" post-removal. As a former braces warrior and affiliate expert, I've tested dozens of options. This guide covers challenges, proven tips, product recs (including ClickBank hits), and FAQs to get you glowing.
 
 ### Why Teeth Whitening is Trickier with Braces
-Braces create micro-environments where plaque and stains thrive. Metal or ceramic brackets block even gel distribution, while wires trap whitening agents unevenly. Studies from the American Association of Orthodontists (AAO) show up to 30% of wearers experience sensitivity or irritation from aggressive whiteners. Plus, abrasive formulas can erode enamel around brackets, increasing decalcification risk—especially if your routine skips [gum health basics]({% post_url 2025-10-02-gum-health-tips-for-braces %})
+Braces create micro-environments where plaque and stains thrive. Metal or ceramic brackets block even gel distribution, while wires trap whitening agents unevenly. Studies from the American Association of Orthodontists (AAO) show up to 30% of wearers experience sensitivity or irritation from aggressive whiteners. Plus, abrasive formulas can erode enamel around brackets, increasing decalcification risk—especially if your routine skips [gum health basics]({{ site.baseurl }}{% post_url 2025-10-02-gum-health-tips-for-braces %})
 
 Key culprits:
 - **Food Traps**: Sugary sodas and coffee stain hidden spots.
@@ -31,8 +31,8 @@ Start slow—whitening during treatment preps for that post-braces glow-up. Here
 2. **Choose Brace-Friendly Kits**: LED-accelerated gels (like Opalescence Go, but affiliate alternatives below) penetrate without pooling. Use 10-15 mins, 3x/week max.
 3. **Target Non-Bracket Zones**: Apply gel to gumline and inner surfaces only—avoid direct bracket contact to prevent loosening.
 4. **Incorporate Probiotics**: Oral microbiomes affect stain adhesion. Daily lozenges repopulate good bacteria for natural whitening.
-5. **Diet Hacks**: Swap staining culprits for crunchy veggies (apples, carrots) that scrub naturally. Rinse post-meal to combat [bad breath risks]({% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
-6. **Nightly Protection**: Follow with fluoride rinse to seal enamel, tying into your [daily hygiene routine]({% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %})
+5. **Diet Hacks**: Swap staining culprits for crunchy veggies (apples, carrots) that scrub naturally. Rinse post-meal to combat [bad breath risks]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
+6. **Nightly Protection**: Follow with fluoride rinse to seal enamel, tying into your [daily hygiene routine]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %})
 Pro Tip: Track progress with weekly photos under consistent lighting. Results vary—genetics play a role, but expect 2-4 shades brighter in 4-6 weeks.
 
 ### Top Recommended Products: Affiliate Picks for 2025
@@ -42,7 +42,7 @@ I've curated brace-safe options with high user ratings and low irritation report
 - **Natural Boost**: Oil pulling with coconut oil + turmeric, but elevate with supplements.
 
 ### Recommended Affiliate Product: ProDentim
-For holistic whitening that tackles root causes, [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim) is my top ClickBank pick. This probiotic candy (3.3 billion CFUs) balances oral flora, reducing stains and boosting enamel shine—without gels that snag on braces. Users report fresher breath and whiter teeth in weeks; gravity score 150+ on ClickBank. Bonus: 180-day guarantee. Perfect for [combating overall oral woes]({% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
+For holistic whitening that tackles root causes, [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim) is my top ClickBank pick. This probiotic candy (3.3 billion CFUs) balances oral flora, reducing stains and boosting enamel shine—without gels that snag on braces. Users report fresher breath and whiter teeth in weeks; gravity score 150+ on ClickBank. Bonus: 180-day guarantee. Perfect for [combating overall oral woes]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
 
 Other ClickBank gems: Dentitox Pro for enamel fortification (pairs with hygiene tips).
 

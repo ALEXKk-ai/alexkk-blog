@@ -1,8 +1,9 @@
 title: Alexkk Blog
 description: Affiliate tips on teeth whitening, gum health, bad breath, and dental hygiene for braces wearers—promoting top ClickBank products for a brighter smile.
 baseurl: "/alexkk-blog"
-url:  https://github.com/ALEXKk-ai
+url: "https://alexkk-ai.github.io/alexkk-blog"
 theme: minima
+permalink: /:year/:month/:day/:title/
 author: Alexkk  
 
 
@@ -42,8 +43,7 @@ page_gen:
     name: "title"
     dir: "pages"  # Create pages/ folder if needed for more static pages
 
-# Permalink style
-permalink: pretty
+
 
 # Exclude from processing
 exclude:

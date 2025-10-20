@@ -13,13 +13,13 @@ image: /assets/bad-breath-braces.jpg  # Add image to assets/ with alt below
   <img src="{{ site.baseurl }}/assets/bad-breath-braces.jpg" alt="Person with braces scraping tongue and using mouthwash to combat bad breath." style="max-width: 800px; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-Bad breath (halitosis) strikes 70% of braces wearers, turning confident smiles into self-conscious ones—thanks to food traps and bacterial blooms under wires. But in 2025, with microbiome-focused tools, it's beatable. From my affiliate research and personal ortho days (chewing mints like candy!), this detailed guide unpacks causes, a multi-pronged attack plan, tool kit, mistakes, and ClickBank winners. It complements [gum health efforts]({% post_url 2025-10-02-gum-health-tips-for-braces %}) and [hygiene routines]({% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}) for total freshness.
+Bad breath (halitosis) strikes 70% of braces wearers, turning confident smiles into self-conscious ones—thanks to food traps and bacterial blooms under wires. But in 2025, with microbiome-focused tools, it's beatable. From my affiliate research and personal ortho days (chewing mints like candy!), this detailed guide unpacks causes, a multi-pronged attack plan, tool kit, mistakes, and ClickBank winners. It complements [gum health efforts]({{ site.baseurl }}{% post_url 2025-10-02-gum-health-tips-for-braces %}) and [hygiene routines]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %})
 
 ### Root Causes of Bad Breath in Braces Treatment
 Orthodontics creates anaerobic zones where sulfur compounds fester, per Mayo Clinic studies. Top triggers:
 - **Food Debris**: Particles lodge in brackets, fermenting into VSCs (volatile sulfur compounds).
 - **Dry Mouth**: Mouth-breathing dries saliva, the natural cleanser—worsens with night guards.
-- **Bacterial Imbalance**: Plaque harbors anaerobes; ties to [gum inflammation]({% post_url 2025-10-02-gum-health-tips-for-braces %}).
+- **Bacterial Imbalance**: Plaque harbors anaerobes; ties to [gum inflammation]({{ site.baseurl }}{% post_url 2025-10-02-gum-health-tips-for-braces %})
 - **Diet Demons**: Garlic/onions linger; acids disrupt pH.
 
 Without intervention, it persists post-braces, signaling deeper issues like decay.
@@ -35,7 +35,7 @@ Layer these for 24/7 freshness—start simple, build habits.
 
 4. **Probiotic Power**: Lozenges repopulate good bacteria, cutting odor sources.
 
-5. **Diet Overhaul**: Leafy greens neutralize; avoid dairy (coats tongue). Tie in [whitening-friendly foods]({% post_url 2025-10-01-teeth-whitening-with-braces %}).
+5. **Diet Overhaul**: Leafy greens neutralize; avoid dairy (coats tongue). Tie in [whitening-friendly foods]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %})
 
 6. **Night Routine**: Oil pulling before bed; humidifier for dry air.
 
@@ -50,7 +50,7 @@ Portable picks for ortho life:
 Ditch: Sugary lozenges (feed bacteria).
 
 ### Recommended Affiliate Product: ProDentim
-Root out the cause with [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim)—probiotic chews (3.5B CFUs) eliminate odor microbes while balancing flora. Braces-approved (no sticky residue), with gravity 200+ on ClickBank. Users rave about all-day freshness; synergizes with [hygiene protocols]({% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}). 180-day money-back.
+Root out the cause with [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim)—probiotic chews (3.5B CFUs) eliminate odor microbes while balancing flora. Braces-approved (no sticky residue), with gravity 200+ on ClickBank. Users rave about all-day freshness; synergizes with [hygiene protocols]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}). 180-day money-back.
 
 Explore Steel Bite Pro for enamel tie-in.
 

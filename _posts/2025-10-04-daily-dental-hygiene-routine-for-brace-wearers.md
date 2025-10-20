@@ -13,10 +13,10 @@ image: /assets/daily-hygiene-braces.jpg  # Add image to assets/ with alt below
   <img src="{{ site.baseurl }}/assets/daily-hygiene-braces.jpg" alt="Infographic of braces hygiene routine: brushing, flossing, and rinsing steps." style="max-width: 800px; height: 400px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-A rock-solid dental hygiene routine is your braces superpower—neglect it, and decalcification or cavities can derail your smile timeline. In 2025, tech like app-timed brushes makes it effortless. As an affiliate vetter who's optimized routines for ortho success, this in-depth blueprint covers foundations, advanced steps, gear upgrades, errors, and ClickBank boosters. It builds on [gum health practices]({% post_url 2025-10-02-gum-health-tips-for-braces %}) and combats [breath issues]({% post_url 2025-10-03-combating-bad-breath-during-orthodontics %}) holistically.
+A rock-solid dental hygiene routine is your braces superpower—neglect it, and decalcification or cavities can derail your smile timeline. In 2025, tech like app-timed brushes makes it effortless. As an affiliate vetter who's optimized routines for ortho success, this in-depth blueprint covers foundations, advanced steps, gear upgrades, errors, and ClickBank boosters. It builds on [gum health practices]({{ site.baseurl }}{% post_url 2025-10-02-gum-health-tips-for-braces %}) and combats [breath issues]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %}).
 
 ### The Stakes: Why Braces Demand Elevated Hygiene
-Brackets shield 30% of tooth surfaces from brushing, per AAO data, spiking white spot risk to 50%. Routine gaps lead to emergencies, extra costs ($500+ per fix). But diligence halves plaque, preserves enamel for [post-braces whitening]({% post_url 2025-10-01-teeth-whitening-with-braces %}).
+Brackets shield 30% of tooth surfaces from brushing, per AAO data, spiking white spot risk to 50%. Routine gaps lead to emergencies, extra costs ($500+ per fix). But diligence halves plaque, preserves enamel for [post-braces whitening]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %}) .
 
 Core risks:
 - **Decalcification**: Acid erodes minerals around bands.
@@ -54,7 +54,7 @@ Invest once, save trips:
 Skip: Manual brushes (less effective).
 
 ### Recommended Affiliate Product: Dentitox Pro
-Amp your routine with [Dentitox Pro](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=dentitox)—liquid drops (herbs, minerals) fortify enamel against acids. Non-gummy (no brace snag), bestseller (gravity 250+). Enhances fluoride absorption for spot-free smiles; links to [whitening prep]({% post_url 2025-10-01-teeth-whitening-with-braces %}). 60-day trial.
+Amp your routine with [Dentitox Pro](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=dentitox)—liquid drops (herbs, minerals) fortify enamel against acids. Non-gummy (no brace snag), bestseller (gravity 250+). Enhances fluoride absorption for spot-free smiles; links to [whitening prep]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %})
 
 Consider Amalgam for detox.
 

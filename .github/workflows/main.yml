@@ -16,27 +16,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Ruby
-  uses: ruby/setup-ruby@v1
-  with:
-    ruby-version: '3.4.7'
-    bundler-version: '2.5.6'
-    rubygems: '3.5.13'  # Pins to avoid update failures
-    bundler-cache: true # Caches gems for faster runs
-
-
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.7'  # Matches your local and Pages support
+          bundler-version: '2.5.6'  # Stable
+          rubygems: '3.5.13'
+          bundler-cache: true
       - name: Install dependencies
-        run: bundle install
-
+        run: bundle install  # Ensures gems are installed
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
-          JEKYLL_ENV: production
-
+          JEKYLL_ENV: production  # Matches Pages build
       - name: Setup Pages
         uses: actions/configure-pages@v5
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

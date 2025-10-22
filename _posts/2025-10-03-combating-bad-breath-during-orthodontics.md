@@ -50,7 +50,7 @@ Portable picks for ortho life:
 Ditch: Sugary lozenges (feed bacteria).
 
 ### Recommended Affiliate Product: ProDentim
-Root out the cause with [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim)—probiotic chews (3.5B CFUs) eliminate odor microbes while balancing flora. Braces-approved (no sticky residue), with gravity 200+ on ClickBank. Users rave about all-day freshness; synergizes with [hygiene protocols]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}). 180-day money-back.
+Root out the cause with [ProDentim](https://07129x-59n7uck5b5nrc0rx7a7.hop.clickbank.net)—probiotic chews (3.5B CFUs) eliminate odor microbes while balancing flora. Braces-approved (no sticky residue), with gravity 200+ on ClickBank. Users rave about all-day freshness; synergizes with [hygiene protocols]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}). 180-day money-back.
 
 Explore Steel Bite Pro for enamel tie-in.
 

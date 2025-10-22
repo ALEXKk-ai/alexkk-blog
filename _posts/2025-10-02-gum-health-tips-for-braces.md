@@ -50,7 +50,7 @@ Budget-friendly picks that fit braces life:
 Steer clear of harsh mouthwashes (dry out tissue) or hard foods (poke gums).
 
 ### Recommended Affiliate Product: ProvaDent
-For root-cause gum repair, [ProvaDent](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=provadent) tops my ClickBank list. This powder formula (with aloe, vitamin C) targets bleeding and swelling, promoting regeneration without gels that snag on braces. High-converting (gravity 180+), with reviews praising faster healing during ortho. Integrates with [daily hygiene steps]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}) for all-around defense. 90-day guarantee.
+For root-cause gum repair, [ProvaDent](https://3420a6-g7tbp0p8a3j-3f1sqbt.hop.clickbank.net) tops my ClickBank list. This powder formula (with aloe, vitamin C) targets bleeding and swelling, promoting regeneration without gels that snag on braces. High-converting (gravity 180+), with reviews praising faster healing during ortho. Integrates with [daily hygiene steps]({{ site.baseurl }}{% post_url 2025-10-04-daily-dental-hygiene-routine-for-brace-wearers %}) for all-around defense. 90-day guarantee.
 
 Bonus: Pair with ProDentim for microbiome synergy.
 

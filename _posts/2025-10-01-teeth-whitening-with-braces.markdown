@@ -42,7 +42,7 @@ I've curated brace-safe options with high user ratings and low irritation report
 - **Natural Boost**: Oil pulling with coconut oil + turmeric, but elevate with supplements.
 
 ### Recommended Affiliate Product: ProDentim
-For holistic whitening that tackles root causes, [ProDentim](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=prodentim) is my top ClickBank pick. This probiotic candy (3.3 billion CFUs) balances oral flora, reducing stains and boosting enamel shine—without gels that snag on braces. Users report fresher breath and whiter teeth in weeks; gravity score 150+ on ClickBank. Bonus: 180-day guarantee. Perfect for [combating overall oral woes]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
+For holistic whitening that tackles root causes, [ProDentim](https://07129x-59n7uck5b5nrc0rx7a7.hop.clickbank.net) is my top ClickBank pick. This probiotic candy (3.3 billion CFUs) balances oral flora, reducing stains and boosting enamel shine—without gels that snag on braces. Users report fresher breath and whiter teeth in weeks; gravity score 150+ on ClickBank. Bonus: 180-day guarantee. Perfect for [combating overall oral woes]({{ site.baseurl }}{% post_url 2025-10-03-combating-bad-breath-during-orthodontics %})
 
 Other ClickBank gems: Dentitox Pro for enamel fortification (pairs with hygiene tips).
 

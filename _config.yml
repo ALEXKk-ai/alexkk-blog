@@ -1,25 +1,20 @@
-title: title: Alexkk Blog
-description: Braces Care Tips: Affiliate tips on teeth whitening, gum health, bad breath, and dental hygiene for braces wearers—promoting top ClickBank products for a brighter smile.
+title: Alexkk Blog
+description: "Braces Care Tips: Affiliate tips on teeth whitening, gum health, bad breath, and dental hygiene for braces wearers—promoting top ClickBank products for a brighter smile."
 baseurl: "/alexkk-blog"
 url: "https://alexkk-ai.github.io/alexkk-blog"
 theme: minima
 permalink: /:year/:month/:day/:title/
-author: Alexkk  
-
-
-
+author: Alexkk
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Minima theme config (New: Skin and date format)
 minima:
   skin: classic  # Options: classic, dark, sunrise
   date_format: "%B %d, %Y"  # e.g., October 14, 2025
 
-# SEO Config for jekyll-seo-tag
 defaults:
   -
     scope:
@@ -36,16 +31,12 @@ defaults:
       image: /assets/alexkk-og-image.jpg
       layout: default
 
-# Auto-generate nav pages (New: For dynamic Home/About links)
 page_gen:
   - data: "pages"
     template: "default"
     name: "title"
     dir: "pages"  # Create pages/ folder if needed for more static pages
 
-
-
-# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -55,7 +46,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# Utterances config (for comments)
 utterances:
   repo: "ALEXKk-ai/alexkk-blog"
   issue_term: pathname

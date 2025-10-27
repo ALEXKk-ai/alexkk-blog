@@ -54,7 +54,7 @@ Invest once, save trips:
 Skip: Manual brushes (less effective).
 
 ### Recommended Affiliate Product: Dentitox Pro
-Amp your routine with [Dentitox Pro](https://hop.clickbank.net/?affiliate=YOUR_CLICKBANK_ID&vendor=dentitox)—liquid drops (herbs, minerals) fortify enamel against acids. Non-gummy (no brace snag), bestseller (gravity 250+). Enhances fluoride absorption for spot-free smiles; links to [whitening prep]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %})
+Amp your routine with [Dentitox Pro](https://ceef9wzb8o7v7q78uc49-gyt9d.hop.clickbank.net)—liquid drops (herbs, minerals) fortify enamel against acids. Non-gummy (no brace snag), bestseller (gravity 250+). Enhances fluoride absorption for spot-free smiles; links to [whitening prep]({{ site.baseurl }}{% post_url 2025-10-01-teeth-whitening-with-braces %})
 
 Consider Amalgam for detox.
 

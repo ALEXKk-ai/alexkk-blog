@@ -1,0 +1,137 @@
+# Maintainer README (Internal)
+
+This document is for maintaining and safely publishing the **ALEXKk-ai/alexkk-blog** repository.
+
+---
+
+## 1) Repository Identity
+
+- **Repo:** `ALEXKk-ai/alexkk-blog`
+- **Type:** Jekyll static blog
+- **Base URL:** `/alexkk-blog`
+- **Configured URL:** `https://alexkk-ai.github.io/alexkk-blog`
+
+Always keep `url` and `baseurl` aligned with deployment target.
+
+---
+
+## 2) Local Development Workflow
+
+### Install dependencies
+
+```bash
+bundle install
+```
+
+### Serve locally (required baseurl)
+
+```bash
+bundle exec jekyll serve --baseurl "/alexkk-blog"
+```
+
+### Build check before push
+
+```bash
+bundle exec jekyll build --trace
+```
+
+---
+
+## 3) Core Files to Maintain
+
+- `_config.yml` — site metadata, plugins, defaults
+- `Gemfile` / `Gemfile.lock` — dependency consistency
+- `_posts/` — blog content
+- `_layouts/`, `_includes/` — rendering and shared UI components
+- `assets/` — site images/styles/static resources
+- `index.markdown`, `about.markdown` — high-visibility landing pages
+
+---
+
+## 4) Content Publishing SOP
+
+For each new post:
+
+1. Create file in `_posts/` as `YYYY-MM-DD-title.md`
+2. Include valid front matter (`layout`, `title`, `date`)
+3. Add or verify disclosure language if affiliate links are present
+4. Validate all outbound links
+5. Run local preview + build checks
+6. Merge and verify live page render
+
+---
+
+## 5) Affiliate & Compliance Checklist
+
+Before publishing any content update:
+
+- [ ] Affiliate IDs are real (no placeholders)
+- [ ] Disclosure appears near affiliate links and/or page intro
+- [ ] Product claims are accurate and non-misleading
+- [ ] Health-related language stays informational (avoid unsupported claims)
+- [ ] Contact and about info are up to date
+
+---
+
+## 6) SEO / Metadata Checklist
+
+- [ ] Clear page title
+- [ ] Useful meta description
+- [ ] Social preview image exists (`/assets/alexkk-og-image.jpg` configured as default)
+- [ ] Internal links resolve with `site.baseurl`
+- [ ] Sitemap/feed generation unaffected (`jekyll-sitemap`, `jekyll-feed`)
+
+---
+
+## 7) Known Project Notes
+
+- `_layoutspost.html` exists at repo root and looks non-standard.
+  - Verify whether this should be moved/renamed to `_layouts/post.html`.
+- `jekyll-log.txt` exists in repo.
+  - Keep only if intentionally tracked; otherwise consider removing from version control.
+
+---
+
+## 8) Dependency Notes
+
+Current setup includes:
+
+- `minima (~> 2.5)`
+- `github-pages` (for Pages-compatible dependency set)
+- `jekyll-seo-tag`
+- `jekyll-sitemap`
+- stdlib compatibility gems (`csv`, `base64`, `logger`)
+
+When upgrading gems:
+1. Update intentionally
+2. Re-run `bundle install`
+3. Run `bundle exec jekyll build --trace`
+4. Verify local rendering and GitHub Pages compatibility
+
+---
+
+## 9) Release / Deployment Routine
+
+1. Validate locally
+2. Push to `main`
+3. Confirm Pages build succeeds
+4. Smoke test:
+   - Home page
+   - Recent posts
+   - About page
+   - 404 page
+   - robots/sitemap/feed availability
+
+---
+
+## 10) Recommended Improvements
+
+- Add a `LICENSE` file
+- Add content templates for consistent post structure
+- Add optional CI check for `jekyll build`
+
+---
+
+## 11) Contact Update Reminder
+
+Ensure the contact email and author bio in content pages remain current and valid.

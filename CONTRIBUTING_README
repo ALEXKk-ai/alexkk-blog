@@ -1,0 +1,141 @@
+# Contributing to Alexkk Blog
+
+Thank you for contributing to **Alexkk Blog**.  
+This document defines strict contribution standards for content quality, compliance, review, and release safety.
+
+---
+
+## 1) Repository Scope
+
+**Repository:** `ALEXKk-ai/alexkk-blog`  
+**Site Type:** Jekyll static blog (GitHub Pages-compatible)
+
+Contributions must support the site’s core purpose:
+
+- Braces and oral-care educational content
+- Clear, practical, reader-first guidance
+- Ethical and transparent affiliate content
+- Stable Jekyll/GitHub Pages operation
+
+Out-of-scope submissions may be closed without merge.
+
+---
+
+## 2) Branching and PR Policy
+
+### Branch Naming (required)
+
+Use one of:
+
+- `content/<short-topic>`
+- `docs/<short-topic>`
+- `fix/<short-topic>`
+- `chore/<short-topic>`
+
+### PR Requirements (required)
+
+Every pull request must include:
+
+1. Purpose summary (what changed and why)
+2. Scope statement (files/areas touched)
+3. Risk level (`low` / `medium` / `high`)
+4. Validation evidence (commands run + results)
+5. Compliance confirmation (if affiliate links/claims are present)
+
+PRs missing required sections are **not reviewable**.
+
+---
+
+## 3) Editorial Standards (strict)
+
+- Write for general readers in clear language
+- Prefer actionable advice over generic commentary
+- Avoid sensational or absolute claims
+- Use clear section headings and concise paragraphs
+- Keep content aligned with braces/oral-care focus
+
+---
+
+## 4) Affiliate and Compliance Policy (strict)
+
+If a contribution contains affiliate links or recommendations, all items below are mandatory:
+
+- [ ] Visible affiliate disclosure near relevant content
+- [ ] No placeholder affiliate IDs
+- [ ] No misleading “guaranteed” claims
+- [ ] No deceptive urgency/scarcity language
+- [ ] Recommendation context explains intended user need
+
+Non-compliant affiliate content is rejected.
+
+---
+
+## 5) Jekyll Technical Standards
+
+- Posts must be in `_posts/` and named `YYYY-MM-DD-title.md`
+- Valid front matter is required
+- Do not add plugins incompatible with GitHub Pages
+- Keep internal links baseurl-safe where appropriate
+
+Required pre-PR checks:
+
+```bash
+bundle install
+bundle exec jekyll serve --baseurl "/alexkk-blog"
+bundle exec jekyll build --trace
+```
+
+---
+
+## 6) Front Matter Requirements
+
+Minimum required front matter for posts:
+
+```yaml
+---
+layout: post
+title: "Post title"
+date: YYYY-MM-DD
+---
+```
+
+---
+
+## 7) Review SLA and Merge Criteria
+
+### Review SLA (target)
+
+- First maintainer response: within **3 business days**
+- Follow-up review after requested changes: within **2 business days**
+
+### Merge criteria
+
+- Scope is aligned
+- Build checks pass
+- Editorial/compliance standards pass
+- Maintainer approval is granted
+
+---
+
+## 8) Commit Message Convention
+
+Use clear commit prefixes:
+
+- `content: ...`
+- `docs: ...`
+- `fix: ...`
+- `chore: ...`
+
+Avoid vague messages.
+
+---
+
+## 9) Security and Sensitive Data
+
+Never commit credentials, tokens, or private secrets.
+
+---
+
+## 10) Questions
+
+If unsure, open a draft PR and label it **`needs-guidance`**.

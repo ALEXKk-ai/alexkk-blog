@@ -91,4 +91,4 @@ This site contains affiliate links and includes disclosure statements in content
 
 ## License
 
-No license file is currently included. Add one if you want to allow reuse.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
